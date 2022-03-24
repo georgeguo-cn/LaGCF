@@ -111,8 +111,6 @@ if __name__ == '__main__':
     losses = []
     for epoch in range(args.epochs):
         if epoch % 10 == 0:
-            Rmodel.simGraph()
-        if epoch % 10 == 0:
             test_time = time()
             results, emb_users, emb_items = utils.Test(args, dataset, Rmodel, epoch, w, device)
             str_log = 'Epoch[' + str(epoch+1) + '] ' + str(results).replace('array(', '').replace(')', '')
