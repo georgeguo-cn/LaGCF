@@ -1,7 +1,7 @@
 # LaGCF
 
 This is my Pytorch implementation for the paper:
->Zhiqiang Guo, Chaoyang Wang, Zhi Li, Jianjun Li, Guohui Li(2021). Joint Locality Preservation and Adaptive Combination for Graph Collaborative Filtering, [Paper in Springer](https://link.springer.com). In DASFAA 2021.
+>Zhiqiang Guo, Chaoyang Wang, Zhi Li, Jianjun Li, Guohui Li(2021). Joint Locality Preservation and Adaptive Combination for Graph Collaborative Filtering, [Paper in Springer](https://link.springer.com/chapter/10.1007/978-3-031-00126-0_12). In DASFAA 2021.
 
 ## Configuration.
 
